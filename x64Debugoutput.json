@@ -1,0 +1,72 @@
+[
+    {
+        "Dafabet mobile": {
+            "bet": "H1(0)",
+            "event": "Kaisar-Jas vs FC Taraz , 1 half ￼",
+            "koef": "2.02"
+        },
+        "Pin-up": {
+            "bet": "H2(0)",
+            "event": "Kaisar II vs Taraz , 1 half 7 min",
+            "koef": "2.02"
+        },
+        "id_fork": "1049746638",
+        "profit": "1"
+    },
+    {
+        "1xbet": {
+            "bet": "2",
+            "event": "Impulse M vs Trudovyie Rezervy II , 2 half 50:38 ￼",
+            "koef": "2.832"
+        },
+        "Liga Stavok": {
+            "bet": "H1(0.5)",
+            "event": "Импульс М vs Трудовые Резервы 2 , 2 half 51 min",
+            "koef": "1.57"
+        },
+        "id_fork": "1251345282",
+        "profit": "1"
+    },
+    {
+        "Dafabet mobile": {
+            "bet": "H1(0)",
+            "event": "Kaisar-Jas vs FC Taraz , 1 half ￼",
+            "koef": "2.02"
+        },
+        "Pin-up": {
+            "bet": "Draw No Bet 2",
+            "event": "Kaisar II vs Taraz , 1 half 7 min",
+            "koef": "2.02"
+        },
+        "id_fork": "3445400668",
+        "profit": "1"
+    },
+    {
+        "Betcity": {
+            "bet": "H1(-2.5)",
+            "event": "Ethiopia Nigd Bank W vs Mechal FC W , 2 half 45 min ￼",
+            "koef": "2"
+        },
+        "Marathon": {
+            "bet": "H2(2.5)",
+            "event": "Ethiopia Nigd Banken Women vs Mechal Women , 2 half 48:30",
+            "koef": "2.04"
+        },
+        "id_fork": "2459116178",
+        "profit": "0.99"
+    },
+    {
+        "188bet": {
+            "bet": "Over(1.5)",
+            "event": "Okzhetpes vs Caspiy , 2 half 47:03",
+            "koef": "1.99"
+        },
+        "Betcity": {
+            "bet": "Under(1.5)",
+            "event": "FC Okzhetpes Kokshetau vs Kaspyi Aktau , 2 half 45 min ￼",
+            "koef": "2.05"
+        },
+        "id_fork": "794065549",
+        "profit": "0.98"
+    }
+]
